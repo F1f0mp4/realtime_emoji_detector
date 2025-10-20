@@ -16,7 +16,7 @@ A Python application that uses computer vision to detect facial expressions and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/realtime_emoji_detector.git
+   git clone https://github.com/F1f0mp4/realtime_emoji_detector.git
    cd realtime_emoji_detector
    ```
 
